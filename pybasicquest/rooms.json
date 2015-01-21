@@ -1,0 +1,51 @@
+{
+	"Vermilion": {
+		"east": "Ochre",
+		"south": "Aquamarine",
+		"spawn": "Burnt Sienna"
+	},
+	"Ochre": {
+		"north": "Vermilion",
+		"east": "Chartreuse",
+		"south": "Ochre",
+		"spawn": "Burnt Sienna"
+	},
+	"Chartreuse": {
+		"north": "Ochre",
+		"south": "Emerald",
+		"spawn": "Cobalt"
+	},
+	"Emerald": {
+		"east": "Lavender",
+		"south": "Aquamarine",
+		"west": "Cobalt",
+		"spawn": "Vermilion"
+	},
+	"Cobalt": {
+		"north": "Vermilion",
+		"south": "Burnt Sienna",
+		"west": "Vermilion",
+		"spawn": "Chartreuse"
+	},
+	"Aquamarine": {
+		"south": "Violet",
+		"west": "Cobalt",
+		"spawn": "Lavender"
+	},
+	"Lavender": {
+		"east": "Chartreuse",
+		"west": "Burnt Sienna",
+		"spawn": "Vermilion"
+	},
+	"Violet": {
+		"east": "Burnt Sienna",
+		"south": "Burnt Sienna",
+		"west": "Chartreuse",
+		"spawn": "Ochre"
+	},
+	"Burnt Sienna": {
+		"north": "Emerald",
+		"east": "Lavender",
+		"spawn": "Ochre"
+	}
+}
